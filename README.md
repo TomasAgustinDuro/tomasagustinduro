@@ -31,3 +31,11 @@ Todos los días estoy intentando mejorar, aprender algo nuevo y busco ampliar mi
 
 >[Calculadora](https://tommiramone.github.io/Calculadora-v2/) 
  Buscando mejorar mi comprensión de JavaScript decidí crear una calculadora. Fue la segunda versión y es la que dejé por una cuestión de gustos ya que era ampliamente mejor que la anterior.
+ 
+ >[Ahorcado en Python](https://github.com/tommiramone/Ahorcado.py) 
+  Comenzando a experimentar con cosas basicas del lenguaje decidi recrear el famoso juego del ahocardo, o hangman en inglés, y este fue el resultado
+ 
+ >[Tateti en Python](https://github.com/tommiramone/Ahorcado.py) 
+  Otra vez intenté afianzar conceptos del lenguaje utilizando otro juego conocido, el ta-te-ti o tic-tac-toe. Logré, como con el anterior, tener un buen desarrollo del juego. 
+ 
+ 
