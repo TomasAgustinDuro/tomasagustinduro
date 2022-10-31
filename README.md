@@ -1,4 +1,4 @@
-### **Hola! Soy Tomás Duro**
+### **Hola! Soy Tomás Duro** :wave:
 
 Actualmente, estoy estudiando la Tecnicatura en Desarrollo Web y Aplicaciones Digitales dictada por el Instituto Superior Politecnico de Córdoba, 
 más allá de eso tengo una base previa en Front End con varios cursos y algunos proyectos realizados ocupando estas tecnologias. 
