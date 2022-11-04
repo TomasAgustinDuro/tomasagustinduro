@@ -38,6 +38,6 @@ Todos los días estoy intentando mejorar, aprender algo nuevo y busco ampliar mi
  >[Tateti en Python](https://github.com/tommiramone/Ahorcado.py) 
   Otra vez intenté afianzar conceptos del lenguaje utilizando otro juego conocido, el ta-te-ti o tic-tac-toe. Logré, como con el anterior, tener un buen desarrollo del juego. 
  
- >[Futbol Trivia] (https://tommiramone.github.io/Futbol-Quiz/) 
+ >[Futbol Trivia](https://tommiramone.github.io/Futbol-Quiz/) 
   En busca de reforzar conocimientos y armar algo más para mi GitHub/Portfolio intenté armar con varios lenguajes que domino una trivia de fútbol argentino. 
  
