@@ -43,3 +43,6 @@ Todos los días estoy intentando mejorar, aprender algo nuevo y busco ampliar mi
  
  >[Encriptador](https://tommiramone.github.io/Encriptador/) 
   Sumando cosas a mi portfolio decidí probar con un encriptador que permita modificar palabras ingresadas por el propio usuario. 
+  
+  >[ToDo List](https://tommiramone.github.io/ToDo-List/)
+    Otra aplicacion/web armada en HTML, CSS y JS. En este caso para armar una lista de cosas por hacer, con la chance de modificarla las tareas y de eliminarlas una vez hechas
