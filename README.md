@@ -6,7 +6,7 @@ desde que empecé a estudiar aca pude ampliar mi conocimiento en FrontEnd por lo
 Todos los días estoy intentando mejorar, aprender algo nuevo y busco ampliar mi experiencia laboral en el rubro. 
 
 ## **Lenguajes más usados**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommiramone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasagustinduro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Lenguajes** 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
