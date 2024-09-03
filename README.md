@@ -1,7 +1,6 @@
 ### **Hola! Soy Tomás Duro** :wave:
 
-Actualmente, estoy estudiando la Tecnicatura en Desarrollo Web y Aplicaciones Digitales dictada por el Instituto Superior Politecnico de Córdoba, 
-desde que empecé a estudiar aca pude ampliar mi conocimiento en FrontEnd por lo cual veran proyectos realizados con Angular y tambien utilizando bases de datos como Firebase. 
+Actualmente, estoy cursando la Tecnicatura en Desarrollo Web y Aplicaciones Digitales en el Instituto Superior Politécnico de Córdoba. Desde que comencé mis estudios aquí, he ampliado mi conocimiento en Frontend, lo que se refleja en proyectos realizados con Angular. Sin embargo, ahora he migrado a React. Además, he trabajado con bases de datos utilizando Django/Python y Node.js con Express.js.
 
 Todos los días estoy intentando mejorar, aprender algo nuevo y busco ampliar mi experiencia laboral en el rubro. 
 
@@ -19,6 +18,8 @@ Todos los días estoy intentando mejorar, aprender algo nuevo y busco ampliar mi
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ## **Software** 
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
