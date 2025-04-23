@@ -1,8 +1,14 @@
-### **Hola! Soy Tomás Duro** :wave:
+### Hola, soy Tomás Duro 👋
 
-Actualmente, estoy cursando la Tecnicatura en Desarrollo Web y Aplicaciones Digitales en el Instituto Superior Politécnico de Córdoba. Desde que comencé mis estudios aquí, he ampliado mi conocimiento en Frontend, lo que se refleja en proyectos realizados con Angular. Sin embargo, ahora he migrado a React. Además, he trabajado con bases de datos utilizando Django/Python y Node.js con Express.js.
+Soy desarrollador web de Buenos Aires, actualmente especializado en React y tecnologías frontend modernas.  
+Comencé mi camino en Angular, y con el tiempo fui migrando hacia el ecosistema React, sumando TypeScript, Tailwind y herramientas de estado avanzadas.
 
-Todos los días estoy intentando mejorar, aprender algo nuevo y busco ampliar mi experiencia laboral en el rubro. 
+Además, trabajé con Python/Django y Node.js en proyectos reales, construyendo desde landings hasta sistemas de gestión más complejos.
+
+🧠 Me gusta trabajar con foco en la arquitectura del frontend, UI clara, y soluciones mantenibles.  
+🧪 Estoy siempre aprendiendo, explorando nuevas formas de mejorar mis proyectos y mi forma de trabajar.
+
+🚀 Podés ver mis mejores proyectos en [mi portfolio](https://tommasdev.vercel.app), y algunas reflexiones y breakdowns en [mi blog](https://tommasdev.vercel.app/blog).
 
 ## **Lenguajes más usados**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasagustinduro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
