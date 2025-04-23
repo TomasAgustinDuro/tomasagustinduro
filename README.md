@@ -29,3 +29,8 @@ Además, trabajé con Python/Django y Node.js en proyectos reales, construyendo 
 
 ## **Software** 
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+📫 ¿Querés contactarme?  
+Podés escribirme por [LinkedIn](https://www.linkedin.com/in/tomas-duro) o visitar mi [portfolio](https://tommasdev.vercel.app).
+
+¡Gracias por pasar!
